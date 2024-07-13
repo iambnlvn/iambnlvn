@@ -1,6 +1,10 @@
-### Hi there 👋
+# bnlvn
 
-Human | EE student | Self-taught fullstack developer stuck inside neovim.<br>
-Teaching myself how to write better code/software, understand memory and circuits.<br>
+Just a guy with a computer trying to craft cool stuff, write better software, understand memory and circuits.<br>
 
-Welcome to my lil' coding corner
+fun facts:<br>
+- I use Neovim, btw<br>
+- I hate Java, maybe JavaScript too<br>
+
+
+
