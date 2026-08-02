@@ -1,12 +1,8 @@
 # bnlvn
 
-Just a guy with a computer trying to craft cool stuff, write better software, understand memory and circuits.<br>
+Just a guy with a computer trying to craft cool stuff, write better software, understand memory and circuits.
 
-fun facts:
-- I love parsing and compiler stuff<br>
-- I use Neovim, btw<br>
+Currently building **Merk**.
 
-
-
-
-
+*Controls engineer. It's a long story.* <br>
+*Neovim, of course.*
